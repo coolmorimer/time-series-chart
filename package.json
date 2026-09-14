@@ -1,1 +1,16 @@
-{"name":"four-series-chart","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"vite --host 127.0.0.1","build":"vite build","preview":"vite preview --host 127.0.0.1","test":"node --test"},"devDependencies":{"vite":"^7.1.0"}}
+{
+  "name": "time-series-chart",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "prettier": "^3.9.6",
+    "vite": "^7.1.0"
+  }
+}
